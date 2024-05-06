@@ -1,6 +1,4 @@
-
-
-<p align="center"> 
+<h1 align="center"></h1> 
  ![DRN](https://img.shields.io/static/v1?label=𝖵𝖤𝖭𝖮𝖬&message=𝖣𝖠𝖱𝖲𝖧𝖴&color=purple)](https://telegram.me/vdmoviez)
  
 
