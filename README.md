@@ -4,3 +4,8 @@
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝖧𝗂👋🏻+𝖨'𝗆+𝖵𝖾𝗇𝗈𝗆+𝖣𝖺𝗋𝗌𝗁𝗎!)
 </p>
+
+<h1 align="center"></h1>
+<p align="center"> 
+  <img src="https://telegra.ph/file/a1489375c10e1f70156e0.jpg" alt="Cover Image" width="650">
+  </a>
